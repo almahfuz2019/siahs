@@ -1,0 +1,188 @@
+body {
+     /* margin: 12px;
+padding: 0px; */
+ }
+ 
+ .navbar_first_charecter {
+     font-weight: 600;
+     transition: 0.5s;
+ }
+ 
+ .Navbar_hover:hover .navbar_first_charecter {
+     color: rgb(206, 25, 55);
+     transition: 0.5s;
+ }
+ 
+ .Navbar_hover:hover {
+     margin-bottom: 5px;
+ }
+ 
+ .first_page_background {
+     height: 100vh;
+     /* width: 100%; */
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+ }
+ 
+ .read_more_btn {
+     border-radius: 6px;
+     border: none;
+     background-color: rgb(209, 21, 84);
+     padding: 10px 30px;
+     transition: 0.5s;
+     text-decoration: none;
+ }
+ 
+ .read_more_btn:hover {
+     background-color: rgba(206, 25, 55, 0.877);
+     transition: 0.5s;
+ }
+ 
+ .full_navbar {
+     align-items: center;
+ }
+ 
+ .full_first_page {
+     height: 83vh;
+ }
+.card-img-overlay{
+     justify-content: center;
+     align-items: center;
+     margin-top: 20vh;
+ }
+ 
+ .all_ul_tag_and_phone_number {
+     justify-content: space-between;
+     align-items: flex-end
+ }
+ 
+ .icons{
+     text-decoration: none;
+     margin: 5px;
+     padding: 4px 2px;
+     color: #6c757d;
+     /* color: #0d6efd; */
+     transition: 0.5s;
+     border-radius: 6px;
+     background-color: #1110102d;
+ }
+ 
+ .icons_firstpage i {
+     text-decoration: none;
+     color: #6c757d;
+     transition: 0.5s;
+     border-radius: 6px;
+     background-color: #f8f9fad7;
+     ;
+ }
+ 
+ .icons_firstpage i:hover {
+     color: rgb(206, 25, 55);
+     transition: 0.5s;
+ }
+ 
+ #sun_light {
+     display: none;
+ }
+ 
+ #night_light {}
+ 
+ #all_class {
+     background-color: #f8f9fa;
+ }
+ 
+ #total_students {
+     background-color: #f8f9fa;
+ }
+ 
+ .navbar-nav {
+     align-items: center;
+ }
+ 
+ .darkmode:hover {
+     transition: 0.5s;
+     cursor: pointer;
+     transform: scale(1.5);
+ }
+ 
+ .darkmode {
+     transition: 0.5s;
+     cursor: pointer;
+ }
+ 
+ .principal_img {
+     border-radius: 50%;
+     padding: 6px;
+ }
+ 
+ .icons:hover {
+     color: rgb(206, 25, 55);
+     transition: 0.5s;
+     /* justify-content: flex-start; */
+     /* display: flex; */
+     /* margin-top: 150px; */
+ }
+ 
+ .logo a {
+     text-decoration: none;
+ }
+ /* second page */
+ 
+ .my_own_color {
+     color: rgb(209, 21, 84);
+ }
+ 
+ .map_btn a {
+     text-decoration: none;
+ }
+ 
+ .my_own-bg_color {
+     background-color: rgb(209, 21, 84);
+ }
+ 
+ .class_name_bold {
+     font-weight: 500 !important;
+ }
+ 
+ .gardiuan_comment {
+     border-radius: 50%;
+     border: 2.5px solid rgb(209, 21, 84);
+     padding: 10px;
+ }
+ 
+ .gardiuan_name {
+     font-weight: 500;
+ }
+ 
+ .demo {
+     color: rgb(209, 21, 84);
+ }
+ 
+ .principal_space {
+     margin: 0% 22%;
+ }
+ 
+ .foter {
+     text-decoration: none;
+     font-weight: 700;
+ }
+ 
+ .footer_nav:hover {
+     cursor: pointer;
+     transition: 0.5s;
+     margin-left: 3px;
+ }
+ 
+ .footer_nav {
+     cursor: pointer;
+     transition: 0.5s;
+ }
+ 
+ .logo:hover {
+     /* transition: all 0.5s; */
+     /* transform: rotateY(180deg); */
+     background-color: burlywood;
+ }
